@@ -2272,9 +2272,9 @@ __metadata:
     "@babel/plugin-transform-modules-commonjs": ^7.22.5
     "@babel/preset-env": ^7.22.5
     babel-test: ^0.2.4
+    es-toolkit: ^1.19.0
     jest: ^29.5.0
     jest-file-snapshot: ^0.5.0
-    lodash: ^4.17.21
     picomatch: ^2.3.1
     prettier: ^2.8.8
     rimraf: ^5.0.1
@@ -2813,6 +2813,13 @@ __metadata:
   dependencies:
     stackframe: ^1.1.1
   checksum: bd8e048fcb1c0c74ab201271fec3b39c097a7c24bdef1718828d053c0584da5d7ad845253b5e4773803ee8e7450b23b0920e60a3b60dd403c1568c843058cb12
+  languageName: node
+  linkType: hard
+
+"es-toolkit@npm:^1.19.0":
+  version: 1.19.0
+  resolution: "es-toolkit@npm:1.19.0"
+  checksum: 25eb139496e66d434dea7e20c120ce2cbe5e24e2c3976d0baa94691d40b6f1f2158629e9b7d0f473b4cfa22ef099963c2db9c22576aea0b4f4d8507fb6e0a343
   languageName: node
   linkType: hard
 
@@ -3974,13 +3981,6 @@ __metadata:
   version: 4.0.8
   resolution: "lodash.debounce@npm:4.0.8"
   checksum: a3f527d22c548f43ae31c861ada88b2637eb48ac6aa3eb56e82d44917971b8aa96fbb37aa60efea674dc4ee8c42074f90f7b1f772e9db375435f6c83a19b3bc6
-  languageName: node
-  linkType: hard
-
-"lodash@npm:^4.17.21":
-  version: 4.17.21
-  resolution: "lodash@npm:4.17.21"
-  checksum: eb835a2e51d381e561e508ce932ea50a8e5a68f4ebdd771ea240d3048244a8d13658acbd502cd4829768c56f2e16bdd4340b9ea141297d472517b83868e677f7
   languageName: node
   linkType: hard
 
